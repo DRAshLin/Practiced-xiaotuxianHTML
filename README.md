@@ -1,2 +1,4 @@
-# Web-practiced
-some web-practiced preject
+# Practiced-xiaotuxianHTML
+some Practiced-xiaotuxianHTML preject
+
+Just completed HTML+CSS sate layout
