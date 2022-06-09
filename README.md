@@ -1,6 +1,6 @@
 # Practiced-xiaotuxianHTML
 
-Just completed HTML+CSS sate layout.
+Just completed HTML+CSS static layout.
 May be the preject has very questions, but i cry hardly to mend it.
 If you any suggestion,comment to me please~
 
